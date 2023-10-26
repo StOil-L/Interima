@@ -35,6 +35,8 @@ Interima is an Android app built for the browsing, application and management of
 | Publish offer from JSON file                                       |         N        |        N       |       N      |          Y         |
 | Check published offers                                             |         N        |        N       |       Y      |          Y         |
 
+A showcase video of these features can be found on [Océane ONGARO's GitHub.io page](https://oceaneongaro.github.io/post/interima/montage.mp4).
+
 ## Getting Started
 
 As the aforementioned MySQL image has been deleted off the Raspberry Pi 4, the app has become practically unusable.
