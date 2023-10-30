@@ -1,8 +1,5 @@
 # Interima
-<!---
-ip = interima.ddns.net
-port = 3306
--->
+
 ## Authors
 [Océane ONGARO](https://oceaneongaro.github.io/)
 
